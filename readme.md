@@ -157,4 +157,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please open an issue on GitHub.
+If you encounter any issues or have questions, please open an issue on GitHub or mail at aadityamishra1509@gmail.com (Aaditya Mishra) .
